@@ -18,7 +18,7 @@
 # 例：自分用に設定する場合以下を参考
 #修正前
 mail = input("MailAddress: ")
-mail = "your@gmial.com"
-#修正後
 apppass = input("AppPassword: ")
+#修正後
+mail = "your@gmial.com"
 apppass = "your_app_password"　　
